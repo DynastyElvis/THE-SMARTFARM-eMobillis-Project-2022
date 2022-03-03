@@ -19,7 +19,8 @@ Kipkemoi Rono
 
 ## Description
 <p>This is  a website that enables farmers and potential growers to access farm inputs and socialize with other agriculture practitioners.</p>
-
+## LIVE LINK
+https://dynastyelvis.github.io/THE-SMARTFARM-eMobillis-Project-2022/
 ## Installation
 
 *Click on the live link associated with the landing page.
