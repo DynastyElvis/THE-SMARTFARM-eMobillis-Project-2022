@@ -51,18 +51,22 @@ https://dynastyelvis.github.io/THE-SMARTFARM-eMobillis-Project-2022/
 
 
 ## Reference
-* Materialize CSS
+https://www.youtube.com/watch?v=D-h8L5hgW-w
+
+https://moringaschool.instructure.com/ 
+
+https://www.w3schools.com/html/
+
+https://materializecss.com/
 
 
-
-
-[Go Back to the top](#portfolio)
+[Go Back to the top](#THE-SMART-FARM)
 
 ## Licence
 
-MIT License
+[MIT LICENCE](https://github.com/DynastyElvis/sUBMISSION-2-Independent-Project---Portfolio-Landing-Page/blob/main/LICENSE)
 
-Copyright (c) [2019] [THE SMART FARM]
+Copyright (c) [2022] [THE SMART FARM]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -82,10 +86,10 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](#THE-SMART-FARM)
 
-## COLLABORATORS INFO
+## AUTHOR'S INFO
+Kipkemoi Elvis Rono
+Kipkemoilvs@gmail.com
 
-
-
-[Go Back to the top](#portfolio)
+[Go Back to the top](#THE-SMART-FARM)
