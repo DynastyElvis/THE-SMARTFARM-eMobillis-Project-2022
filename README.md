@@ -40,7 +40,7 @@ https://dynastyelvis.github.io/THE-SMARTFARM-eMobillis-Project-2022/
 
 ### Installation Process
 
-[Go Back to the top](# THE-SMART-FARM)
+[Go Back to the top](#THE-SMART-FARM)
 
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
