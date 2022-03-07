@@ -5,9 +5,6 @@ Creating modern solutions for modern day Farmers
 
 Kipkemoi Rono
 
-
-### It is a Farming Website.
-
 ## Table of Content
 
 + [Description](#description)
@@ -43,7 +40,7 @@ https://dynastyelvis.github.io/THE-SMARTFARM-eMobillis-Project-2022/
 
 ### Installation Process
 
-[Go Back to the top](#portfolio)
+[Go Back to the top](# THE-SMART-FARM)
 
 ## Technology Used
 * HTML - which was used to build the structure of the pages.
