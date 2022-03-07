@@ -21,7 +21,7 @@ Kipkemoi Rono
 <p>This is  a website that enables farmers and potential growers to access farm inputs and socialize with other agriculture practitioners.</p>
 
 ## Screenshot
-<img src="https://github.com/DynastyElvis/Ghanian-day-names--WK-2-IP/blob/main/images/Screenshot%20from%202022-03-07%2000-08-51.png" width="800px" height="400px">
+<img src="https://github.com/DynastyElvis/THE-SMARTFARM-eMobillis-Project-2022/blob/main/Screenshot%20from%202022-03-07%2016-48-21.png" width="800px" height="400px">
 
 
 ## LIVE LINK
