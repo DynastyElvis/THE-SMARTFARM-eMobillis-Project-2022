@@ -28,17 +28,23 @@ https://dynastyelvis.github.io/THE-SMARTFARM-eMobillis-Project-2022/
 
 ## Installation
 
-*Click on the live link associated with the landing page.
+To access the site, open your browser and put in the link URL.
 
-### Requirements
+[Go Back to the top](#THE-SMART-FARM)
+## Requirements
 
-* Either a computer,phone,tablet or an Ipad
+Web browser
+
+[Go Back to the top](#THE-SMART-FARM)
+
+## Installation Requirements
+
+* Either a computer, phone,tablet or an Ipad
 
 * An access to the Internet
 
-*Updated version of your browser
+* Updated version of your browser
 
-### Installation Process
 
 [Go Back to the top](#THE-SMART-FARM)
 
@@ -49,6 +55,7 @@ https://dynastyelvis.github.io/THE-SMARTFARM-eMobillis-Project-2022/
 
 * JavaScript
 
+[Go Back to the top](#THE-SMART-FARM)
 
 ## Reference
 https://www.youtube.com/watch?v=D-h8L5hgW-w
